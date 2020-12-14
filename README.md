@@ -3,8 +3,8 @@
 <h3>About Me 🤓</h3>
 
 - 🎓 &nbsp; First Class Honours in Computing at Edinburgh Napier University.
-- 💼 &nbsp; Full-stack developer. Or better, everything-plus-one developer 😂.
- From IoT, to robotics, to computer vision, to web tech, I like it all!
+- 💼 &nbsp; Full-stack developer. Or better, everything-plus-one developer 😂. <br>
+  💼 &nbsp; From IoT, to robotics, to computer vision, to web tech, I like it all!
 - ✍️ &nbsp; I like working on projects that help people.
 - ☕ &nbsp; I am Italian and I like my coffee strong.
 
