@@ -10,9 +10,10 @@
 
 <h3>My Projects 🛠</h3>
 
-- 💻 &nbsp; Watchy, a tracker for out-of-stock products: [www.watchy.club](https://www.watchy.club)
+- 💻 &nbsp; Watchy, a tracker for out-of-stock products: [watchy.club](https://www.watchy.club)
 - 🌐 &nbsp; Computer Vision Notebook: [belvederef.github.io/cv-notebook](https://belvederef.github.io/cv-notebook)
-- 👁️ &nbsp; Visual Snow Relief Overlay: [mobile](https://play.google.com/store/apps/details?id=eu.belvederef.vs_relief_overlay) and [desktop](https://github.com/belvederef/visual-snow-relief-overlay) apps that help people affected by the visual snow syndrome
+- 👁️ &nbsp; Visual Snow Relief Overlay: [mobile](https://play.google.com/store/apps/details?id=eu.belvederef.vs_relief_overlay) and [desktop](https://github.com/belvederef/visual-snow-relief-overlay) apps that help people affected by the visual snow syndrome.
+- ✏️ &nbsp; Tsunami Arts, personalised hand-drawn manga art: [tsunamiarts.ink](https://tsunamiarts.ink/)
 
 <br>
 
